@@ -1,0 +1,2 @@
+Emacs's config for develop on Ruby and Ruby on Rails.
+Color-theme-6.6.0 in folder themes for OpenSuse 11.4, Debian have package emacs-goodies-el (color-theme-6.6.0 unneccessary, and coment first string in rc-gui.el).

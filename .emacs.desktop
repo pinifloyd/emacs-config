@@ -1,0 +1,29 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Apr  8 13:24:34 2011
+;; Desktop file format version 206
+;; Emacs version 23.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/home/sergey/.emacs.d/rc-gui.el" "/home/sergey/.emacs.d/init.el" "/home/sergey/.emacs.d/Rakefile" "/home/sergey/.emacs.d/rc-gui.el" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/app/models/gitolite.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/lib/gitolite_patch.rb" "/home/sergey/Code/twinslash/twinslash-redmine/app/helpers/repositories_helper.rb" "/home/sergey/Code/twinslash/twinslash-redmine/app/models/repository.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/app/models/gitolite.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/app/models/repository/gitolite_git.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/init.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/lib/redmine_gitolite_hooks.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/lib/gitolite_user_patch.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/lib/gitolite_patch.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/init.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/app/helpers/repositories_helper.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/assets/javascripts/add_more_gitolite_branch_rule_forms.js" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/app/models/repository/gitolite_git.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/app/models/gitolite.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/app/helpers/repositories_helper.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/app/models/gitolite.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/lib/gitolite_patch.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/init.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_wiki_extensions/lib/wiki_extensions_wiki_cutline.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_wiki_extensions/init.rb" "/home/sergey/Code/twinslash/promwad_redmine/vendor/plugins/promwad_wiki_ext/init.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/config/locales/ru.yml" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/config/locales/en.yml" "/home/sergey/Code/twinslash/twinslash-redmine/app/helpers/repositories_helper.rb" "/home/sergey/Code/twinslash/twinslash-redmine/vendor/plugins/redmine_gitolite/app/helpers/repositories_helper.rb"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/sergey/.emacs.d/README"
+  "README"
+  'fundamental-mode
+  '(linum-mode)
+  55
+  '(40 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
